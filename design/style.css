@@ -1,0 +1,57 @@
+/* General Styles */
+body{
+  background-color: hsl(212, 45%, 89%);
+}
+
+p{
+  font-size: 15px;
+}
+
+/* QR-Code*/
+
+.QR-Div{
+  border-radius: 5%;
+  background-color: white;
+  margin: 10% auto auto auto;
+  width: 30%;
+  text-align: center;
+  /* box-shadow: 60px 20px 2px 1px rgba(0, 0, 0, 0.2); */
+}
+
+
+.QR-Code{
+  border-radius: 10%;
+  margin: 10px 0;
+  width: 90%;
+    text-align: center;
+}
+
+.Improve{
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;
+  font-size: 120%;
+  padding: 10px 20px 0;
+}
+
+.Scan{
+  font-family: 'Outfit', sans-serif;
+  font-weight: 300;
+  font-size: 80%;
+  color: hsl(220, 15%, 55%);
+  padding: 5px 20px 20px;
+}
+
+/* Footer Styles */
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+footer{
+  padding-top: 3rem;
+}
