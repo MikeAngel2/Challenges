@@ -19,75 +19,57 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-### Screenshot
-
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+Challenge to recreate QR code image or website from https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-iQrpYXzwV
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/MikeAngel2/Challenges/blob/main/QR-Code_Challenge/index.html
 
 ## My process
 
+Used ATOM software as my primary HTML coder.
+
+First, created a simple .html and .css files to stablish my code.
+
+Added Style to BODY, to recrete the same color from th result of the challenge.
+
+Created a single Div, to create a Card-like style to the QR code image.
+
+Added margins to DIV and curved it's edges.
+
+Separated image and 2 paragraphs and added them their own styles.
+
+Centered image using padding and margin.
+
+Centered Paragraphs with padding.
+
+Added Fonts from Google fonts
+
+
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Google Fonts
+- ATOM
 
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+Learned on how to distinguish parent and child boxes. This is really important to understand, in order to modify images or text in a way to one's vision.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I recently started to code in HTML and CSS (In the future Bootstrap and Javascript) to become a full stack web developer.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I will update my future works here in github and as well this document
+
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- https://developer.mozilla.org/es/ everything i know about CSS comes from here, super useful to understand tags, attributes and CSS code flow.
+- https://www.w3schools.com - Site that is helping me to keep my brain in edge for coding in general
+- https://www.frontendmentor.io - Real code cases, it's important to keep our ground well stablished with what we learn, and challenge ourselves.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - Migue Ruiz (Website coming soon!!)
+- LinkedIn Profile - https://www.linkedin.com/in/miguel-angel-ruiz-fernandez-41111b177
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
